@@ -1,0 +1,1 @@
+SELECT * FROM `minhas_tarefas`.`tarefas` LIMIT 1000;
